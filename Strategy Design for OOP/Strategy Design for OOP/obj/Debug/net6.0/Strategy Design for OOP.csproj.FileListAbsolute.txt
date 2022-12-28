@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.AssemblyInfo.cs
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\bin\Debug\net6.0\Strategy Design for OOP.exe
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\bin\Debug\net6.0\Strategy Design for OOP.deps.json
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\bin\Debug\net6.0\Strategy Design for OOP.runtimeconfig.json
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\bin\Debug\net6.0\Strategy Design for OOP.dll
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\bin\Debug\net6.0\Strategy Design for OOP.pdb
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.dll
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\refint\Strategy Design for OOP.dll
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.pdb
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\Strategy Design for OOP.genruntimeconfig.cache
+C:\Users\USer\source\repos\Strategy Design for OOP\Strategy Design for OOP\obj\Debug\net6.0\ref\Strategy Design for OOP.dll
