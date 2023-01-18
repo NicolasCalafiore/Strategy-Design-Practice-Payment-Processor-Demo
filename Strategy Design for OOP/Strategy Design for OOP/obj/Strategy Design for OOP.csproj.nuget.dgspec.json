@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USer\\source\\repos\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj": {}
+    "C:\\Users\\USer\\Documents\\GitHub\\Strategy-Design-Practice-Payment-Processor-Demo\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USer\\source\\repos\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj": {
+    "C:\\Users\\USer\\Documents\\GitHub\\Strategy-Design-Practice-Payment-Processor-Demo\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USer\\source\\repos\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj",
+        "projectUniqueName": "C:\\Users\\USer\\Documents\\GitHub\\Strategy-Design-Practice-Payment-Processor-Demo\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj",
         "projectName": "Strategy Design for OOP",
-        "projectPath": "C:\\Users\\USer\\source\\repos\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj",
+        "projectPath": "C:\\Users\\USer\\Documents\\GitHub\\Strategy-Design-Practice-Payment-Processor-Demo\\Strategy Design for OOP\\Strategy Design for OOP\\Strategy Design for OOP.csproj",
         "packagesPath": "C:\\Users\\USer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USer\\source\\repos\\Strategy Design for OOP\\Strategy Design for OOP\\obj\\",
+        "outputPath": "C:\\Users\\USer\\Documents\\GitHub\\Strategy-Design-Practice-Payment-Processor-Demo\\Strategy Design for OOP\\Strategy Design for OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USer\\AppData\\Roaming\\NuGet\\NuGet.Config",
