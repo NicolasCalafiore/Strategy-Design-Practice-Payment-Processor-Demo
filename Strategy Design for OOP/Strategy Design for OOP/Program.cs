@@ -2,13 +2,7 @@
  * Nicolas Calafiore
  * 
  * Demonstration of the Strategy Design pattern for object-orientated programming.
- * 
- * Scenario: a weather forecasting app that allows users to view the current weather conditions and forecast for their location. The app 
- * includes a feature that suggests a clothing recommendation for the current weather based on the temperature, humidity, and other relevant factors.
- * 
- * 
- * 
- * 
+
  */
 
 
